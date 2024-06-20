@@ -14,14 +14,14 @@ Analyze Telangana's tourism data to answer 12 specific research questions relate
 ### 2. Data Analysis:
 Utilized Python and Jupyter Notebook for in-depth analysis, focusing on the following areas:
 
-• **Visitor Analysis**
-• **Seasonal Trends**
-• **Tourist Ratios**
-• **Population to Tourist Footfall Ratio**
-• **Projections using regression**
-• **Potential Growth**
-• **Correlation Studies**
-• **Competition Analysis**
+- **Visitor Analysis**
+- **Seasonal Trends**
+- **Tourist Ratios**
+- **Population to Tourist Footfall Ratio**
+- **Projections using regression**
+- **Potential Growth**
+- **Correlation Studies**
+- **Competition Analysis**
 
 ### 3. Visualization and Reporting:
 Created various visualizations, including bar charts, line graphs, and scatter plots, to effectively communicate findings. Compiled the analysis and visualizations into a comprehensive report for presentation to the Telangana government.
